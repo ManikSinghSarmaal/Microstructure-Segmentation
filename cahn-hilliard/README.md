@@ -78,30 +78,7 @@ In *cahnhilliard.py* we use just the Numpy package to do the fft. In *cahnhillia
 * [Matplotlib](https://matplotlib.org/stable/index.html) is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 
 
-# Cite My work
-
-If you use *cahnhilliard.py* or *cahnhilliard-pytorch.py* in your work, please consider to cite it using the following reference:
-
-Soares, E. do A., Barreto, A. G. & Tavares, F. W. *Exponential Integrators for Phase-Field Equations using Pseudo-spectral Methods: A Python Implementation.* 1–12 (2023). ArXiv: [2305.08998](https://arxiv.org/abs/2305.08998)
-
-Bibtex:
-
-    @article{Soares2023,
-    archivePrefix = {arXiv},
-    arxivId = {2305.08998},
-    author = {Soares, Elvis do A. and Barreto, Amaro G. and Tavares, Frederico W},
-    eprint = {2305.08998},
-    month = {may},
-    pages = {1--12},
-    title = {{Exponential Integrators for Phase-Field Equations using Pseudo-spectral Methods: A Python Implementation}},
-    url = {http://arxiv.org/abs/2305.08998},
-    year = {2023}
-    }
 
 
 # Contact
-Elvis Soares: elvis.asoares@gmail.com
-
-Universidade Federal do Rio de janeiro
-
-School of Chemistry
+Manik Singh : maniksinghsarmaal@gmail.com

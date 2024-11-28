@@ -1,4 +1,4 @@
-# PyCahnHilliard
+# CahnHilliard
 This program solves the Cahn-Hilliard equation using an implicit pseudospectral method. 
 
 The Cahn-Hilliard equation is defined as
